@@ -1,0 +1,14 @@
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Impostos\Exercicio Impostos\bin\Debug\netcoreapp3.1\Exercicio Impostos.exe
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Impostos\Exercicio Impostos\bin\Debug\netcoreapp3.1\Exercicio Impostos.deps.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Impostos\Exercicio Impostos\bin\Debug\netcoreapp3.1\Exercicio Impostos.runtimeconfig.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Impostos\Exercicio Impostos\bin\Debug\netcoreapp3.1\Exercicio Impostos.runtimeconfig.dev.json
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Impostos\Exercicio Impostos\bin\Debug\netcoreapp3.1\Exercicio Impostos.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Impostos\Exercicio Impostos\bin\Debug\netcoreapp3.1\Exercicio Impostos.pdb
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Impostos\Exercicio Impostos\obj\Debug\netcoreapp3.1\Exercicio Impostos.csproj.AssemblyReference.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Impostos\Exercicio Impostos\obj\Debug\netcoreapp3.1\Exercicio Impostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Impostos\Exercicio Impostos\obj\Debug\netcoreapp3.1\Exercicio Impostos.AssemblyInfoInputs.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Impostos\Exercicio Impostos\obj\Debug\netcoreapp3.1\Exercicio Impostos.AssemblyInfo.cs
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Impostos\Exercicio Impostos\obj\Debug\netcoreapp3.1\Exercicio Impostos.csproj.CoreCompileInputs.cache
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Impostos\Exercicio Impostos\obj\Debug\netcoreapp3.1\Exercicio Impostos.dll
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Impostos\Exercicio Impostos\obj\Debug\netcoreapp3.1\Exercicio Impostos.pdb
+C:\Users\JAVALI\Desktop\Ex C# net\Execicios\Exercicio Impostos\Exercicio Impostos\obj\Debug\netcoreapp3.1\Exercicio Impostos.genruntimeconfig.cache
